@@ -2,7 +2,8 @@
 <script src="assets/plugins/jQuery/jQuery-2.1.3.min.js"></script>
 
 <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
-
+<script type="text/javascript" src="https://canvasjs.com/assets/script/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" src="https://cdn.canvasjs.com/jquery.canvasjs.min.js"></script>
 <!-- Bootstrap 3.3.2 JS -->
 <script src="assets/js/bootstrap.min.js" type="text/javascript"></script>
 <!-- chosen select -->
@@ -20,8 +21,7 @@
 <!-- AdminLTE App -->
 <script src="assets/js/app.min.js" type="text/javascript"></script>
 <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
-<script type="text/javascript" src="https://canvasjs.com/assets/script/jquery-1.11.1.min.js"></script>
-<script type="text/javascript" src="https://cdn.canvasjs.com/jquery.canvasjs.min.js"></script>
+
 <!-- page script -->
 <script type="text/javascript">
     /*     $(function () {
